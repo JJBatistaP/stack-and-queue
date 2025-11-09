@@ -1,3 +1,5 @@
+package Buffer;
+
 public class Mensaje {
     private final String contenido;
     private final boolean urgente;
